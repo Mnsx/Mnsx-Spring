@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+    <bean id = "internalResourceViewResolver"
+          class = "org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="prefix" value="/WEB_INF/jsp/"/>
+        <property name="subfix" value=".jsp"/>
+    </bean>
+
+    <resources mapping="/images/**" location="/images/"/>
+    <resources mapping="/js/**" location="/js/"/>
+</beans>
+ 
