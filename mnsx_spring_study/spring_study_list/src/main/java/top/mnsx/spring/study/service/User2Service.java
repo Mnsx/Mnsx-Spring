@@ -1,10 +1,8 @@
 package top.mnsx.spring.study.service;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
-import top.mnsx.spring.study.domain.User1;
 import top.mnsx.spring.study.domain.User2;
 import top.mnsx.spring.study.mapper.User2Mapper;
 

@@ -2,14 +2,32 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-mnsx" />
+        <module name="mnsx_spring" />
+        <module name="spring_study_18" />
+        <module name="spring_study_27" />
+        <module name="spring_study_26" />
+        <module name="spring_study_list" />
+        <module name="spring_study_25" />
+        <module name="spring_study_23" />
+        <module name="spring_study_21" />
+        <module name="spring_study_20" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8" />
+    <bytecodeTargetLevel>
+      <module name="mnsx_spring" target="1.5" />
+      <module name="mnsx_spring_study" target="8" />
+      <module name="spring_study_18" target="8" />
+      <module name="spring_study_20" target="8" />
+      <module name="spring_study_21" target="8" />
+      <module name="spring_study_23" target="8" />
+      <module name="spring_study_25" target="8" />
+      <module name="spring_study_26" target="8" />
+      <module name="spring_study_27" target="8" />
+      <module name="spring_study_list" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

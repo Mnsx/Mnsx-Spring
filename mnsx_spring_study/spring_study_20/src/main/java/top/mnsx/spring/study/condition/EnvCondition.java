@@ -5,10 +5,10 @@ import org.springframework.context.annotation.ConditionContext;
 import org.springframework.core.type.AnnotatedTypeMetadata;
 import top.mnsx.spring.study.annotation.EnvConditional;
 
-public class EvnCondition implements Condition {
+public class EnvCondition implements Condition {
     @Override
     public boolean matches(ConditionContext context, AnnotatedTypeMetadata metadata) {
-        EnvConditional.Env curEnv = EnvConditional.Env.DEV;
+        EnvConditional.Env curEnv = EnvConditional.Env.TEST;
         EnvConditional.Env env = (EnvConditional.Env) metadata.getAllAnnotationAttributes(EnvConditional.class.getName()).get("value").get(0);
         return env.equals(curEnv);
     }

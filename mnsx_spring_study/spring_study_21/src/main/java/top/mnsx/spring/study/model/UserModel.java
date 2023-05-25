@@ -1,2 +1,4 @@
-package top.mnsx.spring.study.model;public class UserModel {
+package top.mnsx.spring.study.model;
+
+public class UserModel {
 }

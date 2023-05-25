@@ -5,8 +5,6 @@ import org.springframework.stereotype.Service;
 import top.mnsx.spring.study.annotation.AnnotationA;
 import top.mnsx.spring.study.annotation.AnnotationB;
 
-import java.util.Arrays;
-
 @AnnotationB(value = "b", annotationAValue = "hhh")
 @Service
 public class NormalAnnoService {

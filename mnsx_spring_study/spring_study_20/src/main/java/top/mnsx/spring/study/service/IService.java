@@ -1,2 +1,4 @@
-package top.mnsx.spring.study.service;public interface IService {
+package top.mnsx.spring.study.service;
+
+public interface IService {
 }

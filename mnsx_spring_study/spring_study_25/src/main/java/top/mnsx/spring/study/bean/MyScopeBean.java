@@ -1,16 +1,19 @@
-package top.mnsx.spring.study.scope;
+package top.mnsx.spring.study.bean;
 
 import org.springframework.beans.factory.ObjectFactory;
 import org.springframework.beans.factory.config.Scope;
+import top.mnsx.spring.study.domain.User;
 
-public class MyScope1 implements Scope {
+public class MyScopeBean implements Scope {
 
     public static final String SCOPE_MY = "my";
 
     @Override
     public Object get(String name, ObjectFactory<?> objectFactory) {
-        System.out.println("MyScope >>> get " + name);
-        return objectFactory.getObject();
+        System.out.println("MyScopeBean get:" + name);
+        User user = (User) objectFactory.getObject();
+        user.setName("hhh");
+        return user;
     }
 
     @Override
