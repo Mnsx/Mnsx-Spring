@@ -2,19 +2,28 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mnsx_spring" />
         <module name="spring_study_18" />
+        <module name="spring_study_29" />
+        <module name="spring_study_28" />
         <module name="spring_study_27" />
         <module name="spring_study_26" />
         <module name="spring_study_list" />
         <module name="spring_study_25" />
         <module name="spring_study_23" />
+        <module name="spring_study_34" />
+        <module name="spring_study_33" />
         <module name="spring_study_21" />
+        <module name="spring_study_32" />
+        <module name="spring_study_43" />
         <module name="spring_study_20" />
+        <module name="spring_study_31" />
+        <module name="spring_study_30" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +36,14 @@
       <module name="spring_study_25" target="8" />
       <module name="spring_study_26" target="8" />
       <module name="spring_study_27" target="8" />
+      <module name="spring_study_28" target="8" />
+      <module name="spring_study_29" target="8" />
+      <module name="spring_study_30" target="8" />
+      <module name="spring_study_31" target="8" />
+      <module name="spring_study_32" target="8" />
+      <module name="spring_study_33" target="8" />
+      <module name="spring_study_34" target="8" />
+      <module name="spring_study_43" target="8" />
       <module name="spring_study_list" target="8" />
     </bytecodeTargetLevel>
   </component>

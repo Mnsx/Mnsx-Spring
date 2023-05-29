@@ -29,6 +29,14 @@
         <module>spring_study_25</module>
         <module>spring_study_26</module>
         <module>spring_study_27</module>
+        <module>spring_study_28</module>
+        <module>spring_study_29</module>
+        <module>spring_study_30</module>
+        <module>spring_study_31</module>
+        <module>spring_study_32</module>
+        <module>spring_study_33</module>
+        <module>spring_study_34</module>
+        <module>spring_study_43</module>
     </modules>
 
     <parent>
@@ -60,6 +68,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
+            <optional>true</optional>
         </dependency>
     </dependencies>
 
