@@ -5,88 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d63fee1-0b48-4062-bf79-12be539d220a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_28/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_28/spring_study_28.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_28/src/main/java/top/mnsx/spring/study/SpringStudyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_28/src/main/java/top/mnsx/spring/study/service/MainConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_28/src/main/java/top/mnsx/spring/study/service/MethodBeforeInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_28/src/main/java/top/mnsx/spring/study/service/ServiceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_28/src/main/java/top/mnsx/spring/study/service/ServiceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/spring_study_29.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/src/main/java/top/mnsx/spring/study/test1/MainConfig1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/src/main/java/top/mnsx/spring/study/test1/MyBeanDefinitionRegistryPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/src/main/java/top/mnsx/spring/study/test1/SpringStudyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/src/main/java/top/mnsx/spring/study/test1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/src/main/java/top/mnsx/spring/study/test2/BeanDefinitionRegistryPostProcessor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/src/main/java/top/mnsx/spring/study/test2/BeanDefinitionRegistryPostProcessor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/src/main/java/top/mnsx/spring/study/test2/MainConfig2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/src/main/java/top/mnsx/spring/study/test2/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/src/main/java/top/mnsx/spring/study/test3/LessonModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/src/main/java/top/mnsx/spring/study/test3/MainConfig3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/src/main/java/top/mnsx/spring/study/test3/MyBeanFactoryPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_29/src/main/java/top/mnsx/spring/study/test3/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_30/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_30/spring_study_30.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_30/src/main/java/top/mnsx/spring/study/SpringStudyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_30/src/main/java/top/mnsx/spring/study/test1/LazyLoaderTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_30/src/main/java/top/mnsx/spring/study/test2/DispatcherTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_30/src/main/java/top/mnsx/spring/study/test2/DispatcherTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_31/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_31/spring_study_31.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_31/src/main/java/top/mnsx/spring/study/SpringStudyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_31/src/main/java/top/mnsx/spring/study/service/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_31/src/main/java/top/mnsx/spring/study/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_32/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_32/spring_study_32.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_32/src/main/java/test1/FundsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_32/src/main/java/test1/SendMsgThrowsAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_32/src/main/java/test1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_33/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_33/spring_study_33.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_33/src/main/java/top/mnsx/spring/study/SpringStudyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_33/src/main/java/top/mnsx/spring/study/test1/MainConfig1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_33/src/main/java/top/mnsx/spring/study/test1/Service1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_33/src/main/java/top/mnsx/spring/study/test1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_33/src/main/java/top/mnsx/spring/study/test2/MainConfig2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_33/src/main/java/top/mnsx/spring/study/test2/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_34/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_34/spring_study_34.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_34/src/main/java/top/mnsx/spring/study/SpringStudyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_34/src/main/java/top/mnsx/spring/study/test1/Aspect1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_34/src/main/java/top/mnsx/spring/study/test1/Service1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_34/src/main/java/top/mnsx/spring/study/test1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/spring_study_43.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/main/java/top/mnsx/spring/study/SpringStudyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/main/java/top/mnsx/spring/study/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/main/java/top/mnsx/spring/study/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/test/java/top/mnsx/spring/study/test/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/test/java/top/mnsx/spring/study/test/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/test/java/top/mnsx/spring/study/test/ServiceA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/206997d3-72c9-425a-9913-e0d96283617c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/206997d3-72c9-425a-9913-e0d96283617c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mnsx_spring_study/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mnsx_spring_study/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/main/java/top/mnsx/spring/study/SpringStudyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/main/java/top/mnsx/spring/study/SpringStudyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/test/java/top/mnsx/spring/study/test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/test/java/top/mnsx/spring/study/test/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/target/test-classes/top/mnsx/spring/study/test/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mnsx_spring_study/spring_study_43/target/test-classes/top/mnsx/spring/study/test/Test1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="FxmlFile" />
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -147,7 +72,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mnsx-Blog/mnsx_blog" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -170,7 +96,7 @@
       <recent name="top.mnsx.spring.study.component" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Test1">
+  <component name="RunManager" selected="JUnit.Test1.test1 (3)">
     <configuration name="Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring_study_43" />
       <extension name="coverage">
@@ -182,22 +108,6 @@
       <option name="PACKAGE_NAME" value="top.mnsx.spring.study.test" />
       <option name="MAIN_CLASS_NAME" value="top.mnsx.spring.study.test.Test1" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_study_32" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test1" />
-      <option name="MAIN_CLASS_NAME" value="test1.Test1" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -218,16 +128,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_study_34" />
+    <configuration name="Test1.test1 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_study_43" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.mnsx.spring.study.test1.*" />
+          <option name="PATTERN" value="top.mnsx.spring.study.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="top.mnsx.spring.study.test1" />
-      <option name="MAIN_CLASS_NAME" value="top.mnsx.spring.study.test1.Test1" />
+      <option name="PACKAGE_NAME" value="top.mnsx.spring.study.test" />
+      <option name="MAIN_CLASS_NAME" value="top.mnsx.spring.study.test.Test1" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -268,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Test1.test1 (3)" />
         <item itemvalue="JUnit.Test1" />
         <item itemvalue="JUnit.Test2.test1" />
         <item itemvalue="JUnit.Test1.test1 (2)" />
         <item itemvalue="JUnit.Test1.test2" />
-        <item itemvalue="JUnit.Test1.test1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -324,6 +234,12 @@
       <workItem from="1685195079802" duration="1426000" />
       <workItem from="1685237823123" duration="4938000" />
       <workItem from="1685277893187" duration="2884000" />
+      <workItem from="1685336639263" duration="3906000" />
+      <workItem from="1685348508482" duration="5132000" />
+      <workItem from="1685411815256" duration="5476000" />
+      <workItem from="1685449931775" duration="786000" />
+      <workItem from="1685815919231" duration="52000" />
+      <workItem from="1685882734395" duration="62000" />
     </task>
     <servers />
   </component>
@@ -360,6 +276,36 @@
           <url>jar://$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/repository/org/springframework/spring-context/5.2.12.RELEASE/spring-context-5.2.12.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java</url>
           <line>346</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/repository/org/springframework/spring-aop/5.2.12.RELEASE/spring-aop-5.2.12.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java</url>
+          <line>156</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/repository/org/springframework/spring-aop/5.2.12.RELEASE/spring-aop-5.2.12.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mnsx_spring_study/spring_study_43/src/test/java/top/mnsx/spring/study/test/Test1.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/repository/org/springframework/spring-aop/5.2.12.RELEASE/spring-aop-5.2.12.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java</url>
+          <line>663</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/repository/org/springframework/spring-aop/5.2.12.RELEASE/spring-aop-5.2.12.RELEASE-sources.jar!/org/springframework/aop/framework/AdvisedSupport.java</url>
+          <line>478</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../Application/Maven/apache-maven-3.8.6-bin/repository/org/springframework/spring-aop/5.2.12.RELEASE/spring-aop-5.2.12.RELEASE-sources.jar!/org/springframework/aop/framework/DefaultAdvisorChainFactory.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
